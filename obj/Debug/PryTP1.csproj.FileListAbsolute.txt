@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\bin\Debug\PryTP1.exe.config
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\bin\Debug\PryTP1.exe
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\bin\Debug\PryTP1.pdb
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.frmPrincipal.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.Properties.Resources.resources
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.exe
+C:\Users\franc\OneDrive\Desktop\programacion\IES21\1º semestre\PryTP1\obj\Debug\PryTP1.pdb
